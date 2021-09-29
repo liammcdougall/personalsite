@@ -1,0 +1,25 @@
+/*
+CSS HEX 
+--big-dip-oruby: #982649ff;
+--gray-web: #7c8483ff;
+--pewter-blue: #71a2b6ff;
+--blue-jeans: #60b2e5ff;
+--electric-blue: #53f4ffff;
+
+*/
+
+
+p {
+    color: aqua;
+}
+
+h1{
+    color: chocolate;
+}
+main{
+    background-color: darkmagenta;
+}
+
+li{
+    color: rgb(28, 214, 21);
+}
