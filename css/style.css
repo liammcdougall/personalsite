@@ -6,20 +6,25 @@ CSS HEX
 --blue-jeans: #60b2e5ff;
 --electric-blue: #53f4ffff;
 
+--oxford-blue: #0b132bff;
+--space-cadet: #1c2541ff;
+--independence: #3a506bff;
+--maximum-blue-green: #5bc0beff;
+--turquoise-blue: #6fffe9ff;
+
 */
 
-
 p {
-    color: aqua;
+    color: #0b132bff;
 }
 
 h1{
-    color: chocolate;
+    color: #1c2541ff;
 }
 main{
-    background-color: darkmagenta;
+    background-color: #3a506bff;
 }
 
 li{
-    color: rgb(28, 214, 21);
+    color: #6fffe9ff;
 }
