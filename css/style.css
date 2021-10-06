@@ -16,6 +16,7 @@ CSS HEX
 
 p {
     color: #1c2541ff;
+    font-family: 'Playfair Display', serif;
 }
 
 h1{
@@ -27,4 +28,25 @@ main{
 
 li{
     color: #6fffe9ff;
+}
+
+
+nav {
+    border-bottom: 1px solid black;
+}
+
+.navbar ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.navbar {
+    display: inline-block;
+
+    color: #53f4ffff;
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    font-weight: bold;
+    padding: 0 3px;
 }
