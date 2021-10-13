@@ -21,6 +21,7 @@ p {
     height: auto;
     width: 400px;
     background-color: #dddbcbff;
+    padding-right: 5px;
 
 
 }
@@ -84,5 +85,7 @@ nav {
     margin-top: 5px;
     margin-bottom: 15px;
     
+    
     background-color: #f5f1e3ff;
+    position: sticky;
 }
