@@ -21,7 +21,7 @@ p {
     height: auto;
     width: 400px;
     background-color: #dddbcbff;
-    padding-right: 5px;
+    
 
 
 }
@@ -88,4 +88,13 @@ nav {
     
     background-color: #f5f1e3ff;
     position: sticky;
+}
+
+a:visited {
+    color: red;
+  }
+  
+a:hover {
+    color: plum;
+
 }
